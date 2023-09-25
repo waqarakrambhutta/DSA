@@ -1,6 +1,5 @@
 # this is how the recursion works in stack mamory.
 
-
 def firstMethod():
     secondMethod()
     print('this is first method')
@@ -20,7 +19,7 @@ def forthMethod():
 def fifthMethod():
     print('this is fifth method')
     
-firstMethod()
+# firstMethod()
 
 def recursionMethod(n):
     if n<1:
