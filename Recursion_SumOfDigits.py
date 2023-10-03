@@ -5,4 +5,5 @@ def SumOfDigits(n):
     else:
         return int(n%10) + SumOfDigits(int(n/10))
 
+
 print(SumOfDigits(12234))
