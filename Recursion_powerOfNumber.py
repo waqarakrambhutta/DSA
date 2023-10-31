@@ -8,3 +8,4 @@ def PowerOfNumber(Base,Exp):
     return Base * PowerOfNumber(Base , Exp-1)
 
 print(PowerOfNumber(2,4))
+
