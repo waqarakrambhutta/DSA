@@ -10,3 +10,5 @@ def PowerOfNumber(Base,Exp):
 print(PowerOfNumber(2,4))
 
 
+
+
