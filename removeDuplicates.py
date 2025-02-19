@@ -11,6 +11,8 @@ class Solution:
                 j += 1
 
 
+
+
         return j  
 
 instance = Solution().removeDuplicates([1,1,1,1])
