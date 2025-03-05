@@ -8,3 +8,4 @@ class Solution:
         
 instance = Solution().isPalindrome(121)
 print(instance)
+
